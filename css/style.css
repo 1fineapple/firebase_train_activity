@@ -1,0 +1,36 @@
+.container{
+    background-color:#FFCBA4  ;
+   
+}
+
+.jumbotron{
+   background: url(https://cdn.pixabay.com/photo/2013/07/12/18/58/toy-train-154101_1280.png);
+   background-repeat: no-repeat;
+   background-size: 530px 210px;
+   background-position: center; 
+   color:#5A0016;
+   
+}
+.jumbotron h1{
+    margin-top:0px; 
+    padding-top :0px;
+    height: 200px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.smcontainer{
+    background:	#E8E8E8;
+    padding: 5px;
+    font-family: 'Roboto Mono', monospace;
+    margin:10px;
+}
+
+.bodycontainer{
+    background-color:#193CA6;
+}
+
+#submit-button{
+    background-color:#5A0016;
+    padding-left: 10px;
+
+}
